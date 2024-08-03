@@ -11,6 +11,7 @@ Long Description about project. This project do that. This project is awesome...
 2. [Alan V Mathew](https://github.com/mancity142)
 3. [Antony Rubens](https://github.com/Antony-Rubens)
 4. [Joseph Shibu](https://github.com/SharkSpidy)
+5. [Jerry Bernard](https://github.com/jerry53779)(....)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
