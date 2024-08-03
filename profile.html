@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="profile-container">
+        <h1>Profile</h1>
+        <div class="profile-details">
+            <img id="profile-image" src="default-profile.png" alt="Profile Image">
+            <input type="file" id="profile-image-input" accept="image/*" onchange="loadProfileImage(event)">
+            <p>Name: <span id="profile-name">Sharkspidy</span></p>
+            <p>GitHub Profile: <a id="profile-github" href="#">github.com/SharkSpidy</a></p>
+            <p>Email: <span id="profile-email">sharkspidy@gmail.com</span></p>
+            <button onclick="logout()">Log Out</button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
