@@ -23,10 +23,10 @@ Long Description about project. This project do that. This project is awesome...
 No Framework or Libraries required to run this program.
 ## CONFIGURATION
 engagehub/
-├── app.js
-├── home.html
-├── styles.css
-├── leaderboard.html
-└── profile.html
+1. app.js
+2. home.html
+3. styles.css
+4. leaderboard.html
+5. profile.html
 ## How to Run
 Just Open the Home.html file.
