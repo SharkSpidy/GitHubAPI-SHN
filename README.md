@@ -22,6 +22,11 @@ Long Description about project. This project do that. This project is awesome...
 ## LIBRARIES
 No Framework or Libraries required to run this program.
 ## CONFIGURATION
-Clone the Repo
+engagehub/
+├── app.js
+├── home.html
+├── styles.css
+├── leaderboard.html
+└── profile.html
 ## How to Run
 Just Open the Home.html file.
