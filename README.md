@@ -14,7 +14,7 @@ Long Description about project. This project do that. This project is awesome...
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
-1. This 
+1. Still Working on it sry Boss
 2. Embed video of project demo
 ## Libraries used
 Library Name - Version
