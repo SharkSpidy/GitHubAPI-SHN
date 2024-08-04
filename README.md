@@ -14,6 +14,9 @@ Long Description about project. This project do that. This project is awesome...
 5. [Jerry Bernard](https://github.com/jerry53779)(Was a real support through out!! Took my role as team lead till 8PM coz I was travelling!)
 ## WALKTHROUGH
 [EngageHub](https://drive.google.com/file/d/1FrnwDmIL2UWCQo_cvvQYeXFMUxa_RM9P/view?usp=sharing)
+[Image 1](https://github.com/SharkSpidy/GitHubAPI-SHN/blob/main/Screenshot%20(607).png)
+[Image 2](https://github.com/SharkSpidy/GitHubAPI-SHN/blob/main/Screenshot%20(608).png)
+[Image 3](https://github.com/SharkSpidy/GitHubAPI-SHN/blob/main/Screenshot%20(609).png)
 ## THE HOW?
 1. It is a simple HTML, CSS, JS website which uses GitHub REST API
 2. User Interaction: The user enters a GitHub repository URL into a prompt.
